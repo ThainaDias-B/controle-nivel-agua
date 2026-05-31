@@ -1,7 +1,7 @@
 # controle-nivel-agua
 # 🚰 Sistema de Monitoramento de Níveis de Água
 
-Este projeto foi desenvolvido como uma atividade prática para a disciplina de **Desenvolvimento de Sistemas I (Agenda 11 - Bibliotecas)**. 
+Este projeto foi desenvolvido como uma atividade prática para a disciplina de **Desenvolvimento de Sistemas I **. 
 
 O objetivo do sistema é simular o monitoramento do terminal de um reservatório de água, exibindo mensagens de alerta customizadas com cores diferentes de acordo com o nível de criticidade atual do reservatório.
 
